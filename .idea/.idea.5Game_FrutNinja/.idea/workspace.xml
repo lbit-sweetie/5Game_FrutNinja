@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bafc476-50df-4dff-8b8a-bbbd83a0e69f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/DCanvas.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/DCanvas.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/DCanvasI.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/DCanvasI.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/DCanvasOpen.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/DCanvasOpen.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/Menu.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/Menu.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/MenuClose.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/MenuClose.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/MenuI.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/MenuI.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/MenuOpen.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/MenuOpen.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/NEC.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/NEC.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/NECSkin.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/NECSkin.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/Store.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/Store.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/StoreClose.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/StoreClose.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/StoreCloseSkin.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/StoreCloseSkin.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/StoreI.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/StoreI.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/StoreOpen.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/StoreOpen.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/StoreOpenSkin.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Anim/StoreOpenSkin.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DeathObsPart.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DeathObsPart.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Destr.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Destr.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EnemyHealth.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EnemyHealth.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Epic Toon FX/Upgrade/ETFX 2019.4.24f1 URP Upgrade.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KnifeMove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KnifeMove.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MenuScr.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MenuScr.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PAttack.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PAttack.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PScore.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PScore.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/10.Rare.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/10.Rare.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/11.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/11.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/12.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/12.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/13.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/13.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/14.Rare.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/14.Rare.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/7.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/7.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/8.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/8.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/9.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefs/9.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/10.Rare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/10.Rare.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/14.Rare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/14.Rare.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/BarV2_Bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/BarV2_Bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/BarV2_ProgressBar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/BarV2_ProgressBar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/BarV2_ProgressBarBorder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/BarV2_ProgressBarBorder.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/BarV5_Bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/BarV5_Bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/BarV5_ProgressBar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/BarV5_ProgressBar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/katana 2b.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Refs/katana 2b.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Refs/katana 3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Refs/katana 3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gam.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gam.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Men.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Men.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpawnSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpawnSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TakeData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TakeData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/Btn6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/Btn6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/ChinaOne SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/ChinaOne SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/ChinaOne.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/ChinaOne.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/Header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/Header.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/Panel1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/Panel1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/Panel4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/Panel4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/bottom.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/btn8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/coi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/coi.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/panel2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/panel2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/panel3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/panel3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/panel5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIChinise/panel5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animations.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Animations.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScr.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2vsy225CNtnoF5ZFxXVcXvSgSkl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bafc476-50df-4dff-8b8a-bbbd83a0e69f" name="Default Changelist" comment="" />
+      <created>1744947868162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744947868162</updated>
+      <workItem from="1744947873163" duration="8751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
